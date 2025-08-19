@@ -1,7 +1,7 @@
 Ocultum 4STM4 – Tactical Communication Device
 
 ![ocultum device](ocultum_device.png)
-![ocultum device](ocultum_device2.png)
+![ocultum device](ocultum_device3.png)
 
 Overview
 The Ocultum 4STM4 is a concept for a rugged handheld communication device, designed with a cyberpunk military aesthetic yet engineered for real-world practicality.
