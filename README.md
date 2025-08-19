@@ -1,5 +1,6 @@
 Ocultum 4STM4 – Tactical Communication Device
 
+![ocultum device](ocultum_device.png)
 ![ocultum device](ocultum_device2.png)
 
 Overview
