@@ -41,3 +41,4 @@ Ocultum 4STM4 – Tactical Communication Device
 ### Status
 
 Design and prototyping documentation. Early concept stage—ideas and feedback are welcome!
+- Quickdraw test
