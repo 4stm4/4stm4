@@ -60,39 +60,3 @@ Website: https://4stm4.website
     </td>
   </tr>
 </table>
-
-## Quick Links
-
-<p align="center">
-  <a href="https://github.com/4stm4/nanodhcp">nanodhcp</a> ·
-  <a href="https://github.com/4stm4/tinyWiFi">tinyWiFi</a> ·
-  <a href="https://github.com/4stm4/nervum">Nervum</a> ·
-  <a href="https://github.com/4stm4/testum">Testum</a> ·
-  <a href="https://github.com/4stm4/pyjobkit">pyjobkit</a> ·
-  <a href="https://github.com/4stm4/ehatrom">ehatrom</a>
-</p>
-
----
-
-## Focus
-
-- Rust
-- Embedded Linux
-- Raspberry Pi
-- Networking
-- Homelab infrastructure
-- Small understandable systems
-
----
-
-## Current Direction
-
-- minimal network services
-- tiny router stack
-- infrastructure automation
-- embedded Linux tools
-- Rust-first rewrites of existing tools
-
----
-
-**Write safe. Write fast. Write Rust.**
