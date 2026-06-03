@@ -12,15 +12,79 @@ Website: https://4stm4.website
 
 ## Featured Projects
 
-| Project | Focus |
-| --- | --- |
-| [nanodhcp](https://github.com/4stm4/nanodhcp) | Minimal DHCP server written in Rust. |
-| [tinyWiFi](https://github.com/4stm4/tinyWiFi) | Minimal Wi-Fi router stack for Raspberry Pi Zero 2 W. |
-| [Nervum](https://github.com/4stm4/nervum) | SDN and network-control experiments. |
-| [Testum](https://github.com/4stm4/testum) | Homelab infrastructure platform experiments. |
-| [pyjobkit](https://github.com/4stm4/pyjobkit) | Small Python automation/job toolkit. |
-| [ehatrom / hatrom](https://github.com/4stm4/ehatrom) | Raspberry Pi HAT EEPROM tooling. |
-| [Ocultum](https://github.com/4stm4/ocultum) | Embedded hardware and firmware experiments. |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/nanodhcp">
+        <img src="assets/projects/nanodhcp-card.png" alt="nanodhcp" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/nanodhcp">nanodhcp</a></strong>
+      <br>
+      Minimal DHCP server written in Rust.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/tinyWiFi">
+        <img src="assets/projects/tinywifi-card.png" alt="tinyWiFi" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/tinyWiFi">tinyWiFi</a></strong>
+      <br>
+      Minimal Wi-Fi router stack for Raspberry Pi Zero 2 W.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/nervum">
+        <img src="assets/projects/nervum-card.png" alt="Nervum" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/nervum">Nervum</a></strong>
+      <br>
+      SDN and network-control experiments.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/testum">
+        <img src="assets/projects/testum-card.png" alt="Testum" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/testum">Testum</a></strong>
+      <br>
+      Homelab infrastructure platform experiments.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/pyjobkit">
+        <img src="assets/projects/pyjobkit-card.png" alt="pyjobkit" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/pyjobkit">pyjobkit</a></strong>
+      <br>
+      Small Python automation and job toolkit.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/4stm4/ehatrom">
+        <img src="assets/projects/ehatrom-card.png" alt="ehatrom" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/4stm4/ehatrom">ehatrom</a></strong>
+      <br>
+      Library for working with Raspberry Pi HAT EEPROM.
+    </td>
+  </tr>
+</table>
+
+## Quick Links
+
+<p align="center">
+  <a href="https://github.com/4stm4/nanodhcp">nanodhcp</a> ·
+  <a href="https://github.com/4stm4/tinyWiFi">tinyWiFi</a> ·
+  <a href="https://github.com/4stm4/nervum">Nervum</a> ·
+  <a href="https://github.com/4stm4/testum">Testum</a> ·
+  <a href="https://github.com/4stm4/pyjobkit">pyjobkit</a> ·
+  <a href="https://github.com/4stm4/ehatrom">ehatrom</a>
+</p>
 
 ---
 

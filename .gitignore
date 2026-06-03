@@ -1,6 +1,9 @@
 __pycache__/
 *.py[cod]
+.DS_Store
 
 data/github_traffic.log
 data/github_traffic.sqlite3
 data/github_traffic.sqlite3-*
+
+assets/projects/ChatGPT Image*.png
