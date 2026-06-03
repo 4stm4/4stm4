@@ -45,25 +45,4 @@ Website: https://4stm4.website
 
 ---
 
-## Links
-
-Website: https://4stm4.website  
-GitHub: https://github.com/4stm4
-
----
-
-## GitHub Traffic Collector
-
-This repository includes a small GitHub REST traffic collector for selected 4STM4 repositories. It stores views, clones, referrers, and popular paths in `data/github_traffic.sqlite3`.
-
-```sh
-export GITHUB_TOKEN=github_pat_...
-export GITHUB_OWNER=4stm4
-python3 tools/github_traffic_collector.py
-```
-
-See [docs/github-traffic.md](docs/github-traffic.md) for token permissions, cron setup, and metric interpretation.
-
----
-
 **Write safe. Write fast. Write Rust.**
