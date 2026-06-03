@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+data/github_traffic.log
+data/github_traffic.sqlite3
+data/github_traffic.sqlite3-*
