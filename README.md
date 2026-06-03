@@ -1,5 +1,3 @@
-# 4STM4
-
 **Tiny infrastructure tools, embedded Linux experiments, and Rust-first network software for networking, homelab, and automation.**
 
 **Write safe. Write fast. Write Rust.** · Website: https://4stm4.website
